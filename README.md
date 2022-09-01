@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on reference designs and automation of Azure DevOps
+- 🌱 I’m currently learning advanced PowerShell techniques/tools
+- 👯 I’m looking to collaborate on opensource initiatives using PowerShell
+- 🤔 I’m looking for help with Azure Functions using PowerShell
+- 💬 Ask me about computer hardware components, PowerShell, Azure or Azure DevOps
+- 📫 How to reach me: Via e-mail or LinkedIn 😁
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Graduated as a Physiotherapist
